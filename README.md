@@ -1,0 +1,1 @@
+Easy use of pointer from inside the struct 
